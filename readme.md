@@ -14,13 +14,13 @@ Last but not least, TIMEDB supports the **interactive visualizations** of gene e
 
 ![avatar](./fig/visualization_poster.png)
 
-##Help
+## Help
 For more information, please see TIMEDB (https://timedb.deepomics.org).
 If you encounter any problems in use, you can describe it on the [issue](https://github.com/deepomicslab/TIMEDB/issues) page and we will deal with it as soon as possible.
 
-##Contact us
+## Contact us
 Dr LI, Shuaicheng
 Tat Chee Avenue, Kowloon, Hong Kong
 Email: shuaicli@cityu.edu.hk
 
-##Citation
+## Citation
