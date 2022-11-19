@@ -24,3 +24,17 @@ Tat Chee Avenue, Kowloon, Hong Kong
 Email: shuaicli@cityu.edu.hk
 
 ## Citation
+
+@article{10.1093/nar/gkac1006,
+    author = {Wang, Xueying and Chen, Lingxi and Liu, Wei and Zhang, Yuanzheng and Liu, Dawei and Zhou, Chenxin and Shi, Shuai and Dong, Jiajie and Lai, Zhengtao and Zhao, Bingran and Zhang, Wenjingyu and Cheng, Haoyue and Li, Shuaicheng},
+    title = "{TIMEDB: tumor immune micro-environment cell composition database with automatic analysis and interactive visualization}",
+    journal = {Nucleic Acids Research},
+    year = {2022},
+    month = {11},
+    abstract = "{Deciphering the cell-type composition in the tumor immune microenvironment (TIME) can significantly increase the efficacy of cancer treatment and improve the prognosis of cancer. Such a task has benefited from microarrays and RNA sequencing technologies, which have been widely adopted in cancer studies, resulting in extensive expression profiles with clinical phenotypes across multiple cancers. Current state-of-the-art tools can infer cell-type composition from bulk expression profiles, providing the possibility of investigating the inter-heterogeneity and intra-heterogeneity of TIME across cancer types. Much can be gained from these tools in conjunction with a well-curated database of TIME cell-type composition data, accompanied by the corresponding clinical information. However, currently available databases fall short in data volume, multi-platform dataset integration, and tool integration. In this work, we introduce TIMEDB (https://timedb.deepomics.org), an online database for human tumor immune microenvironment cell-type composition estimated from bulk expression profiles. TIMEDB stores manually curated expression profiles, cell-type composition profiles, and the corresponding clinical information of a total of 39,706 samples from 546 datasets across 43 cancer types. TIMEDB comes readily equipped with online tools for automatic analysis and interactive visualization, and aims to serve the community as a convenient tool for investigating the human tumor microenvironment.}",
+    issn = {0305-1048},
+    doi = {10.1093/nar/gkac1006},
+    url = {https://doi.org/10.1093/nar/gkac1006},
+    note = {gkac1006},
+    eprint = {https://academic.oup.com/nar/advance-article-pdf/doi/10.1093/nar/gkac1006/47137009/gkac1006.pdf},
+}
