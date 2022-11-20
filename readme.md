@@ -25,3 +25,12 @@ Email: shuaicli@cityu.edu.hk
 
 ## Citation
 
+<pre>
+@article{10.1093/nar/gkac1006,
+    author = {Wang, Xueying and Chen, Lingxi and Liu, Wei and Zhang, Yuanzheng and Liu, Dawei and Zhou, Chenxin and Shi, Shuai and Dong, Jiajie and Lai, Zhengtao and Zhao, Bingran and Zhang, Wenjingyu and Cheng, Haoyue and Li, Shuaicheng},
+    title = "{TIMEDB: tumor immune micro-environment cell composition database with automatic analysis and interactive visualization}",
+    journal = {Nucleic Acids Research},
+    year = {2022},
+    month = {11}}
+</pre>
+
